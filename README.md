@@ -17,7 +17,7 @@
 
 首先，我们创建一个 bucket，一个存储文件的容器：
 
-![add bucket](asset/创建Bucket.png)
+![add bucket](<img src=''asset/创建Bucket.png>)
 
 接着，我们需要给 bucket 设置跨域，这样我们才能在网页中调用 Aliyun OSS 服务器的接口：
 
