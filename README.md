@@ -335,4 +335,4 @@ function resume() {
 ```
 
 # github 示例项目
-项目地址： [引入 aliyun-oss SDK](https://github.com/fanfanSky/aliyun-oss-upload)。如果对大家有帮助，star一下吧。
+项目地址： [https://github.com/fanfanSky/aliyun-oss-upload](https://github.com/fanfanSky/aliyun-oss-upload)。如果对大家有帮助，star一下吧。
